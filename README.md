@@ -5,6 +5,7 @@ This is an Angular 2 starter project, using TypeScript.
 - Typings configurations added.
 - Codelyzer configured.
 
+```json
 "dependencies": {
     "@angular/common": "^2.0.0-rc.5",
     "@angular/compiler": "^2.0.0-rc.5",
@@ -23,3 +24,4 @@ This is an Angular 2 starter project, using TypeScript.
     "tslint": "^3.15.1",
     "typescript": "^1.8.10"
   }
+```
